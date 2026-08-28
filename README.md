@@ -32,8 +32,8 @@ Cada transação passa por **8 regras de risco** inspiradas em testes reais de a
 - **R$ 1,03 mi (36,6%)** do valor total concentrado em transações de risco
 - **49** transações classificadas como **risco Alto** — a fila prioritária de revisão
 
-![Transações por tipo de risco](imagens/risco_por_tipo.png)
-![Valor em risco por departamento](imagens/valor_risco_departamento.png)
+![Transações por tipo de risco](risco_por_tipo.png)
+![Valor em risco por departamento](valor_risco_departamento.png)
 
 ## 🔄 O fluxo do projeto (em etapas)
 
