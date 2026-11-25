@@ -18,7 +18,7 @@ Cada transação passa por **8 regras de risco** inspiradas em testes reais de a
 |---|---|---|
 | Acima do limite | Valor acima do limite da política da categoria | 3 |
 | Sem comprovante | Despesa relevante (> R$ 250) sem comprovante anexado | 3 |
-| Fornecedor não homologado | Fornecedor fora da lista oficial | 3 |
+| Fornecedor atípico | Fornecedor fora da lista oficial | 3 |
 | Possível duplicidade | Mesmo colaborador + fornecedor + valor em até 3 dias | 3 |
 | Fracionamento | 3+ despesas no mesmo dia logo abaixo da alçada de aprovação | 2 |
 | Dia não útil | Despesa em fim de semana ou feriado | 1 |
