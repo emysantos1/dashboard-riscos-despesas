@@ -29,7 +29,7 @@ Cada transação passa por **8 regras de risco** inspiradas em testes reais de a
 
 - **2.143** transações analisadas · **R$ 2,80 mi** em despesas
 - **28,8%** das transações sinalizadas com algum risco
-- **R$ 1,03 mi (36,6%)** do valor total concentrado em transações de risco
+- **R$ 1,03 mi (36,7%)** do valor total concentrado em transações de risco
 - **49** transações classificadas como **risco Alto** — a fila prioritária de revisão
 
 ![Dashboard no Power BI](dashboard_powerbi.png)
